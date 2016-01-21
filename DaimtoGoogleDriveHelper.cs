@@ -205,6 +205,9 @@ namespace gDrive_Backup
             {
                 try
                 {
+                    if (filds == "")
+                        filds = "md5Checksum";
+
                     var request = service.Files.List();
                     request.Q = search;
                     request.Spaces = "drive";
