@@ -1,5 +1,5 @@
 ﻿/*
-This is my conversion to Google Apis Drive v3 from https://github.com/LindaLawton/Google-Dotnet-Samples/blob/master/Google-Drive/Google-Drive-Api-dotnet/Google-Drive-Api-dotnet/Program.cs
+This is my conversion to Google Apis Drive v3 from https://github.com/LindaLawton/Google-Dotnet-Samples/blob/master/Google-Drive/Google-Drive-Api-dotnet/Google-Drive-Api-dotnet/DaimtoGoogleDriveHelper.cs
 Oryginal author: Linda Lawton https://github.com/LindaLawton
 This version Author: Marcel Garbarczyk https://github.com/m4rcelpl  
 */
